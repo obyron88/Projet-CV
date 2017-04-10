@@ -1,0 +1,68 @@
+h2 {
+  color: rgb(255, 255, 0);
+  color: rgba(255, 255, 0, 0.99);
+  font-family:'Londrina Outline';
+  font-size: 70px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+.header {
+  background-image: url("http://img15.hostingpics.net/pics/546391sky.png");
+  height: 100px;
+  background-position: center center;
+}
+
+ h1 {
+
+ color: rgb(255, 255, 0);
+ color: rgba(255, 255, 0, 0.99);
+ font-family: 'Londrina Outline', sans-serif;
+ font-size: 70px;
+ line-height: 76px;
+ margin: 0;
+ position: relative;
+ text-align: center;
+ top: 20%;
+}
+
+li {
+  font-family: 'Coda Caption', sans-serif;
+  color: rgb(255, 255, 0);
+  color: rgba(255, 255, 0, 0.99);
+  text-align: center;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url("http://img15.hostingpics.net/pics/546391sky.png");
+
+}
+#bb8{
+
+    height:12px;
+    position:alternate;
+    top:100px;
+    left:100px;
+
+     -webkit-animation-name: rotate;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: alternate;
+  }
+  @-webkit-keyframes rotate {
+      from {
+        -webkit-transform: rotate(0deg);
+     }
+     to {
+       -webkit-transform: rotate(360deg);
+     }
+  }
+  #wow{
+    text-align: right;
+
+   }
