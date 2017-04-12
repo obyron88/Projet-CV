@@ -1,2 +1,2 @@
 # Projet-CV
-file:///home/coda/CODA/Projet%20CV/CV.html
+https://htmlpreview.github.io/?https://github.com/obyron88/Projet-CV/blob/master/CV.html
